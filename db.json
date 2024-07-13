@@ -1,0 +1,13 @@
+{
+    "Property": [
+        {
+            "id": "1",
+            "name": "maison",
+            "address": "maison",
+            "price": 1,
+            "available": false
+           }
+    ]
+
+   
+}
